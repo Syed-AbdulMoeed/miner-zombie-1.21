@@ -51,12 +51,6 @@ Stuck detection ensures the zombie skips blocks it cannot reach.
 
 ---
 
-## Screenshots / Demo
-
-> *Include a short video or GIF here demonstrating the MinerZombie in action.*
-
----
-
 ## License
 
 MIT License (or whatever you prefer)
