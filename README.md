@@ -53,4 +53,4 @@ Stuck detection ensures the zombie skips blocks it cannot reach.
 
 ## License
 
-MIT License (or whatever you prefer)
+MIT License 
